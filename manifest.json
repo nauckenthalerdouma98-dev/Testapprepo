@@ -1,5 +1,5 @@
 {
-  "name":Notebook app",
+  "name": "Notebook app",  // Missing quotes fixed
   "short_name": "NTBApp",
   "start_url": ".",
   "display": "standalone",
@@ -12,4 +12,4 @@
       "type": "image/png"
     }
   ]
-}}
+}
